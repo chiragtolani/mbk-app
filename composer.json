@@ -1,0 +1,10 @@
+{
+    
+  "require": {
+        "faisalman/simple-excel-php": "^0.3",
+        "phpmailer/phpmailer": "^6.0",
+        "geekcom/phpjasper": "^1.16",
+        "ext-mysqli": "*"
+  }
+  
+}
